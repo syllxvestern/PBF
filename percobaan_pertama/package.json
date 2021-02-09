@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "M.Rahmat Samudra A",
+  "author": "1841720215_M.Rahmat Samudra A",
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.1"
