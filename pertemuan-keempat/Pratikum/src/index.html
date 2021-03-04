@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>Belajar React</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="text/babel">
+        function Form() {
+            return(
+                <div>
+                    <h2>Login Form</h2>
+                    <form>
+                      <div className="imgcontainer">
+                        <img src="avatar.png" alt="Avatar" className="avatar"/>
+                      </div>
+
+                      <div className="container">
+                        <label><b>Username</b></label>
+                        <input type="text" placeholder="Enter Username" name="uname" required/>
+
+                        <label><b>Password</b></label>
+                        <input type="password" placeholder="Enter Password" name="psw" required/>
+                            
+                        <button type="submit">Login</button>
+                        <input type="checkbox" defaultChecked/> Remember me
+                      </div>
+                      <div className="container" style={{backgroundColor: '#f1f1f1'}}>
+                        <button type="button" className="cancelbtn">Cancel</button>
+                        <span className="psw">Forgot <a href="#">password?</a></span>
+                      </div>
+                    </form>
+                </div>
+            );
+        }
+
+        ReactDOM.render(
+            <Form/>,
+            document.getElementById('root')
+        );
+    </script>
+</body>
+</html>
