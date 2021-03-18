@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1614865579418,
+      "nim": "1841720215",
+      "nama": "Lel",
+      "alamat": "Jl. Ennafiel no.3282",
+      "telfon": "089539455540",
+      "angkatan": "2020",
+      "status": "Aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
