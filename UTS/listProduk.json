@@ -1,0 +1,78 @@
+{
+  "mesincuci": [
+    {
+      "id": 1,
+      "nama": "LG F2515RTGV",
+      "harga": 16334000,
+      "image": "/MesinCuci/MesinCuci-1.jpg",
+      "stok" : 10
+    },
+    {
+      "id": 2,
+      "nama": "MODENA WF 1156",
+      "harga": 10250000,
+      "image": "/MesinCuci/MesinCuci-2.jpg",
+      "stok" : 8
+    },
+    {
+      "id": 3,
+      "nama": "SAMSUNG WF17N7",
+      "harga": 10501000,
+      "image": "/MesinCuci/MesinCuci-3.jpg",
+      "stok" : 7
+    },
+    {
+      "id": 4,
+      "nama": "SANKEN SFL-660E",
+      "harga": 4033000,
+      "image": "/MesinCuci/MesinCuci-4.jpg",
+      "stok" : 12
+    },
+    {
+      "id": 5,
+      "nama": "LG T2313VS2M",
+      "harga": 5685000,
+      "image": "/MesinCuci/MesinCuci-5.jpg",
+      "stok" : 8
+    },
+    {
+      "id": 6,
+      "nama": "SANKEN TW-8800",
+      "harga": 1510000,
+      "image": "/MesinCuci/MesinCuci-6.jpg",
+      "stok" : 6
+    },
+    {
+      "id": 7,
+      "nama": "SHARP ES-G875P",
+      "harga": 2556000,
+      "image": "/MesinCuci/MesinCuci-7.jpg",
+      "stok" : 11
+    },
+    {
+      "id": 8,
+      "nama": "POLYTRON PAW75",
+      "harga": 2830000,
+      "image": "/MesinCuci/MesinCuci-8.jpg",
+      "stok" : 18
+    },
+    {
+      "id": 9,
+      "nama": "SHARP ES-T75NT",
+      "harga": 1498000,
+      "image": "/MesinCuci/MesinCuci-9.jpg",
+      "stok" : 16
+    },
+    {
+      "id": 10,
+      "nama": "SHARP ES-T79SJ",
+      "harga": 5685000,
+      "image": "/MesinCuci/MesinCuci-10.jpg",
+      "stok" : 13
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
