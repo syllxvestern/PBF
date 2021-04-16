@@ -1,0 +1,58 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+form {border: 3px solid #f1f1f1;}
+
+
+
+.kotak_login{
+	width: 350px;
+	background: white;
+	/*meletakkan form ke tengah*/
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+
+.form_login{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+/* .cancelbtn {
+  width: auto;
+  margin: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+} */
+
+.tugas {
+    text-align: center;
+}
+
+.container {
+    height: 100px;
+    position: relative;
+  }
+  
+  .cancelbtn {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    background-color: #f44336;
+    width: 80px;
+    height: 40px;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
