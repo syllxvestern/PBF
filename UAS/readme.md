@@ -1,1 +1,1 @@
-# UAS EventDab - Event Manager 
+# UAS EventDab - Event Manager Laravel + ReactJs
